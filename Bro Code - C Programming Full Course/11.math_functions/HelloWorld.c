@@ -21,6 +21,9 @@ int main(){
     printf("\n%1d", E);
     printf("\n%1f", F);
     printf("\n%1f", G);
+    printf("\n%1f", H);
+    printf("\n%1f", I);
+    printf("\n%1f", J);
 
     return 0;
 
